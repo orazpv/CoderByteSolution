@@ -1,0 +1,12 @@
+﻿body {
+    background-color:aquamarine;
+}
+section{
+    background-color:white;
+    height:200px;
+    width:300px;
+    padding-top:1px;
+    padding-left:20px;
+    border:1px;
+
+}
